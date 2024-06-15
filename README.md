@@ -1,13 +1,15 @@
 # Weather-conditions-
-Overview
+Overview:
 The Weather Conditions App is designed to provide users with up-to-date weather information for their location or any specified location worldwide. It offers a simple and intuitive interface to access current weather conditions and forecasts.
 
-Features
+Features:
 Current Weather: Get real-time weather updates including temperature, humidity, wind speed, and conditions.
 Forecast: View weather forecasts for the next few days to plan ahead.
 Location-based: Automatically detects the user's location or allows manual location entry.
 Multi-city Support: Save and switch between multiple locations for weather updates.
+
 User-friendly Interface: Clean and easy-to-navigate design for seamless user experience.
+
 Installation
 Clone the repository:
 
